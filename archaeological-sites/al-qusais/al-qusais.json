@@ -1,0 +1,198 @@
+{
+  "id": "ae-dxb-archaeological-al-qusais",
+  "name": "Al Qusais Archaeological Site",
+  "alternate_names": ["Al-Qusais Necropolis", "Al Qusais Monument"],
+  "location": {
+    "emirate": "Dubai",
+    "district": "Al Qusais, Deira",
+    "country": "United Arab Emirates",
+    "coordinates": {
+      "latitude": 25.278,
+      "longitude": 55.372
+    },
+    "proximity": "Near Dubai International Airport; close to the Dubai–Sharjah border"
+  },
+  "type": "Archaeological Site — Prehistoric Necropolis and Settlement",
+  "heritage_category": "Archaeological / Prehistoric",
+  "periods": [
+    {
+      "name": "Late Bronze Age — Wadi Suq Period",
+      "date_range_bce": "2000–1300",
+      "cultural_period": "Wadi Suq"
+    },
+    {
+      "name": "Iron Age I",
+      "date_range_bce": "1300–1000",
+      "cultural_period": "Early Iron Age"
+    },
+    {
+      "name": "Iron Age II",
+      "date_range_bce": "1000–550",
+      "cultural_period": "Late Iron Age"
+    }
+  ],
+  "broad_date_range": "c. 2500–550 BCE",
+  "discovery_year": 1974,
+  "excavation_history": [
+    {
+      "period": "1970s",
+      "year_start": 1974,
+      "year_end": 1977,
+      "lead_archaeologist": "Munir Taha (Iraqi archaeologist)",
+      "organisation": "Dubai Municipality",
+      "key_findings": [
+        "First systematic exposure of the Bronze and Iron Age necropolis",
+        "Identification of 267 simple pit graves and 3 communal tombs",
+        "Discovery of the 'Mound of Serpents' occupation area",
+        "Copper alloy snake figurines and snake-decorated ceramics recovered",
+        "Evidence of a columned hall structure interpreted as a possible Iron Age II temple"
+      ]
+    },
+    {
+      "period": "1990s",
+      "year_start": 1991,
+      "year_end": 1993,
+      "lead_archaeologist": "H. Qandil",
+      "organisation": "Dubai Department of Antiquities and Heritage",
+      "key_findings": [
+        "101 additional burial pits excavated in the necropolis area",
+        "Rich assemblages of grave goods recovered but not fully published at the time",
+        "Human skeletal remains identified, though publication was delayed ~30 years"
+      ],
+      "reference": "Qandil, H. (1993). Archaeological Report of al-Qusais 1991–1993. Dubai Municipality: Unpublished Report."
+    },
+    {
+      "period": "2020",
+      "year_start": 2020,
+      "year_end": 2020,
+      "lead_archaeologist": "Tatiana Valente",
+      "organisation": "Dubai Culture Authority & Arts / Sanisera International Archaeology Institute",
+      "collaboration": "Dubai Municipality reassessment initiative",
+      "key_findings": [
+        "Nine new burial pits excavated; 19 new pits identified in total",
+        "Reassessment and first systematic study of 1990s unanalysed material",
+        "Grave goods confirmed: copper daggers, soft-stone vessels (chlorite/steatite), pottery, jewellery, beads, shells",
+        "Human remains formally identified and analysed",
+        "Geomorphological and palaeoenvironmental study of the prehistoric landscape conducted",
+        "Chronological framework refined for Bronze-to-Iron Age cultural transition",
+        "Infant and child burials studied — 7 child remains (aged ~2–6) found in 126 excavated graves"
+      ],
+      "publication": "Valente, T., Contreras, F., Vila, B., Fernández, A., Al Ali, B., Radwan Karim, M. B., & Zein, H. M. (2023). The necropolis of Al Qusais (Dubai, UAE): preliminary results on the 2020 excavation and data reassessment from the 70s and 90s excavations. Proceedings of the Seminar for Arabian Studies, 52, 355–372."
+    },
+    {
+      "period": "2024–ongoing",
+      "year_start": 2024,
+      "year_end": null,
+      "organisation": "Dubai Culture Authority & Arts / Sanisera International Archaeology Institute",
+      "contract": "Limited Tender No. 38 of 2024",
+      "key_findings": [
+        "Updated chronology of burial activity published",
+        "GIS-based palaeoenvironmental reconstructions conducted",
+        "Total confirmed burials: 267 simple graves + 3 communal graves (290+ total)",
+        "Site recognised as one of the most important prehistoric sites in the Arabian Peninsula"
+      ]
+    }
+  ],
+  "site_areas": [
+    {
+      "name": "Bronze and Iron Age Necropolis",
+      "description": "The primary burial ground comprising hundreds of pit graves and communal tombs spanning the Late Bronze Age through to the Iron Age. Graves contain flexed skeletons in lateral positions alongside rich grave goods.",
+      "total_burials_documented": 290,
+      "burial_types": ["Simple pit graves", "Communal/collective tombs"],
+      "burial_orientation": "Flexed, lateral position"
+    },
+    {
+      "name": "Mound of Serpents (Tell al-Hayat)",
+      "description": "An Iron Age II occupation area (c. 1000–800 BCE) distinguished by the discovery of numerous copper alloy snake figurines and ceramics with snake motifs. Associated with a columned hall structure interpreted as a possible early temple or ritual space. Parallels exist at Bithnah (Fujairah), Masafi, and sites in Oman.",
+      "date_range_bce": "1000–800",
+      "cultural_significance": "Potential evidence of serpent veneration or ritual cult in south-eastern Arabia"
+    }
+  ],
+  "artefacts": {
+    "metal": [
+      "Copper/bronze daggers",
+      "Copper alloy snake figurines (diagnostic of the Mound of Serpents area)",
+      "Bronze tools and weapons",
+      "Bronze arrowheads"
+    ],
+    "pottery": [
+      "Ceramics with snake-motif decoration",
+      "Local and imported pottery vessels"
+    ],
+    "stone": [
+      "Soft-stone (chlorite/steatite) vessels",
+      "Stone bowls"
+    ],
+    "personal_ornaments": [
+      "Jewellery",
+      "Beads (precious and semi-precious stone)",
+      "Shells",
+      "Cylindrical seals"
+    ]
+  },
+  "cultural_significance": {
+    "regional_importance": "One of the most important prehistoric archaeological sites in the Arabian Peninsula, providing crucial evidence for the Late Bronze Age and Iron Age in south-eastern Arabia.",
+    "burial_practices": "The site offers detailed insights into funerary customs, community structure, and demographic patterns (including infant mortality) of Bronze-to-Iron Age populations in the Gulf region.",
+    "trade_connections": "Grave goods indicate active trade connections across the Arabian Peninsula and beyond, consistent with the broader Wadi Suq cultural horizon.",
+    "cultural_transition": "The site is a key reference for understanding the poorly-differentiated cultural shift from the Bronze Age to the Iron Age in the UAE.",
+    "serpent_cult": "The Mound of Serpents provides rare evidence for possible serpent-related ritual practices in Iron Age II south-eastern Arabia, with parallels at Bithnah (Fujairah) and sites in Oman and Bahrain.",
+    "demography": "Analysis of 126 excavated graves reveals evidence of familial burial customs, with children interred alongside adults, providing data on Bronze Age community demographics and early childhood survival."
+  },
+  "conservation_status": {
+    "threats": "Significant portions of the site were destroyed by urbanisation following Dubai's oil-driven expansion in the 1970s–1980s. The site is now surrounded by modern urban development.",
+    "protection": "Managed by Dubai Culture Authority & Arts.",
+    "current_status": "Partially preserved; active research and excavation programme ongoing as of 2024."
+  },
+  "related_sites_uae": [
+    "Saruq al-Hadid Archaeological Site (Dubai) — Iron Age metallurgy centre",
+    "Al-Sufukh Archaeological Site (Dubai) — Umm Al Nar civilisation tombs",
+    "Jabal al-Yamh Tombs (Hatta, Dubai) — multi-period tombs",
+    "Jebel al-Buhais (Sharjah) — prehistoric necropolis",
+    "Mleiha (Sharjah) — pre-Islamic burial area",
+    "Bithnah (Fujairah) — Iron Age II snake cult evidence"
+  ],
+  "references": [
+    {
+      "citation": "Valente, T., Contreras, F., Vila, B., Fernández, A., Al Ali, B., Radwan Karim, M. B., & Zein, H. M. (2023). The necropolis of Al Qusais (Dubai, UAE): preliminary results on the 2020 excavation and data reassessment from the 70s and 90s excavations. Proceedings of the Seminar for Arabian Studies, 52, 355–372.",
+      "url": "https://archaeopresspublishing.com/ojs/index.php/PSAS/article/view/1565",
+      "type": "peer-reviewed journal article"
+    },
+    {
+      "citation": "Taha, M. (1981). The Iron Age in the United Arab Emirates with special reference to Mesopotamia. Unpublished PhD dissertation, Cambridge University.",
+      "url": "https://www.repository.cam.ac.uk/handle/1810/272441",
+      "type": "doctoral thesis"
+    },
+    {
+      "citation": "Taha, M. (2009). The Discovery of the Iron Age in the United Arab Emirates. Abu Dhabi: Ministry of Culture, Youth and Community Development.",
+      "type": "book"
+    },
+    {
+      "citation": "Qandil, H. (1993). Archaeological Report of al-Qusais 1991–1993. Dubai Municipality: Unpublished Report.",
+      "type": "grey literature / excavation report"
+    },
+    {
+      "citation": "Potts, D. T. (2012). In the Land of the Emirates: The Archaeology and History of UAE. Abu Dhabi/London: Trident Press.",
+      "type": "book"
+    },
+    {
+      "citation": "Dubai Culture Authority & Arts. Al Qusais Archaeological Site.",
+      "url": "https://dubaiculture.gov.ae/en/about-us/Discover-Our-Heritage/Archeological-sites/Al-Qusais-Archaeological-Site",
+      "type": "official government source"
+    },
+    {
+      "citation": "Benoist, A. (2007). An Iron Age II snake cult in the Oman peninsula: evidence from Bithnah (Emirate of Fujairah). Arabian Archaeology and Epigraphy, 18, 34–54.",
+      "type": "peer-reviewed journal article"
+    },
+    {
+      "citation": "Sanisera International Archaeology Institute / Dubai Culture Authority & Arts. (2024). Proposed chronology of burial activity by period in the necropolis of Al Qusais. (Limited Tender No. 38 of 2024).",
+      "url": "https://sryahwapublications.com/article/download/2639-3662.0701003",
+      "type": "research report"
+    }
+  ],
+  "metadata": {
+    "entry_created": "2026-06-08",
+    "entry_version": "1.0.0",
+    "data_quality": "High — based on peer-reviewed publications, official government sources, and academic excavation reports",
+    "contributor_notes": "Entry compiled from multiple academic and official sources. The 2020 excavation publication (Valente et al. 2023, PSAS Vol. 52) is the primary peer-reviewed reference. Ongoing 2024 work may update burial counts and chronological interpretations."
+  }
+}
